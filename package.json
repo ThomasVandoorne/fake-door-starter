@@ -1,0 +1,23 @@
+{
+  "name": "fake-door-starter",
+  "version": "1.0.0",
+  "description": "## Fork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasVandoorne/fake-door-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasVandoorne/fake-door-starter/issues"
+  },
+  "homepage": "https://github.com/ThomasVandoorne/fake-door-starter#readme",
+  "dependencies": {
+    "js-confetti": "^0.11.0"
+  }
+}
