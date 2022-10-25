@@ -4,7 +4,11 @@
   "description": "## Fork",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "thomas": "echo 'yuw'"
   },
   "repository": {
     "type": "git",
@@ -19,5 +23,8 @@
   "homepage": "https://github.com/ThomasVandoorne/fake-door-starter#readme",
   "dependencies": {
     "js-confetti": "^0.11.0"
+  },
+  "devDependencies": {
+    "vite": "^3.1.8"
   }
 }
